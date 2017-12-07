@@ -1,0 +1,56 @@
+{
+  "data":{
+    "singerList":[
+      {
+        "id":"1",
+        "picUrl": "../static/yinyue.jpg",
+        "name":"Ingrid Michaelson"
+      },
+      {
+        "id":"2",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000025NhlN2yWrP4.jpg?max_age=2592000",
+        "name":"周杰伦"
+      },
+      {
+        "id":"3",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000004AlfUb0cVkN1.jpg?max_age=2592000",
+        "name":"BIGBANG (빅뱅)"
+      },
+      {
+        "id":"4",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000003Nz2So3XXYek.jpg?max_age=2592000",
+        "name":"陈奕迅"
+      },
+      {
+        "id":"5",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001BLpXF2DyJe2.jpg?max_age=2592000",
+        "name":"林俊杰"
+      },
+      {
+        "id":"6",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000020PeOh4ZaCw1.jpg?max_age=2592000",
+        "name":"Alan Walker (艾伦·沃克)"
+      },
+      {
+        "id":"7",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000000aHmbL2aPXWH.jpg?max_age=2592000",
+        "name":"李荣浩"
+      },
+      {
+        "id":"8",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000000zmpju02bEBm.jpg?max_age=2592000",
+        "name":"TFBOYS"
+      },
+      {
+        "id":"9",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000001JuGrt372YIQ.jpg?max_age=2592000",
+        "name":"Maroon 5 (魔力红乐团)"
+      },
+      {
+        "id":"10",
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T001R150x150M000000CK5xN3yZDJt.jpg?max_age=2592000",
+        "name":"许嵩"
+      }
+    ]
+  }
+}

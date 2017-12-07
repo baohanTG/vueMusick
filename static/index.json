@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "slider": [
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000003IMpTu0IQFPx.jpg",
+        "id": 12054
+      },
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000001ztvX61WIuaH.jpg",
+        "id": 12049
+      },
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M0000047riki1oFNDT.jpg",
+        "id": 12021
+      },
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000001kkAGv2KD6lz.jpg",
+        "id": 12058
+      },
+      {
+        "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M00000331DSs1WFQAw.jpg",
+        "id": 10579
+      }
+    ],
+    "songList": [
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/ibntviciboJuwCoCNK8ibZkjekGCGYr8rzzBw0HgnDBKUMMk4mzw7CdYbw/600?n=1",
+        "name":"淡淡忧伤：民谣诗人口琴里的独特情绪",
+        "description":"Allen",
+        "playAmount":"4.6万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/Nich4QRD76rLmeJ0UuZBTMq6WBDlQBwzQnEvp1NRStRVrKsNWj8Gxtg/600?n=1",
+        "name":" 50首歌环游世界：以外国城市命名的华语歌",
+        "description":"可爱的温蒂",
+        "playAmount":"65万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/z8wAFqicQ1qhImeiajkrgiaRxTUQYhcbpgRXIn5ApEAYAm6myAGv8VwsA/600?n=1",
+        "name":"虽然我不是中二病，但PG-ONE是我本命",
+        "description":"风吹草地",
+        "playAmount":"25.4万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/UeVpTq9unUbRAQ073R5hqsWH9MQERibMKZdYgxhibM6bqqP7fPc7sUng/600?n=1",
+        "name":"「德沃夏克」浪漫主义时期民族乐派的巨擘",
+        "description":"昨天的彩虹",
+        "playAmount":"4.2万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/K15Evpa7keTqcWvCt82SOxJyyAWGcxPsWgibBBIrfer3K7dsMBxzrCQ/600?n=1",
+        "name":"古典 | 将来的你，会感激现在努力的自己",
+        "description":"孤独阳光",
+        "playAmount":"17.3万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/4y7iatwYqHbpo2iaJPyJiaanj0DqtQFszL5RHrlYCb5BjsgIiaRd5icqhhw/600?n=1",
+        "name":"还是很文艺范：当这些民谣歌手唱起英文歌",
+        "description":"古典指弹大湿",
+        "playAmount":"13.2万"
+      },
+      {
+        "picUrl":"https://p.qpic.cn/music_cover/UROl51JnIAk9Ipxmv4b86ia3hEvSxmWrN94e7uozJO7S02YeToKIIYQ/600?n=1",
+        "name":"你单曲循环的民谣，原来改编自外文歌",
+        "description":"我同事的嘴很甜",
+        "playAmount":"8.1万"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+$imgPlayWidth:10vw;
+$imgPeyWidth:6vw;
+$scWidth:10vw;
+$dqxhWidht:10vw;
+.icon-play,.icon-pause,.icon-play-mini,.icon-pause-mini{
+  display: inline-block;
+  width: $imgPlayWidth;
+  height:$imgPlayWidth;
+}
+.icon-play:before {
+  display: inline-block;
+  width: $imgPlayWidth;
+  height:$imgPlayWidth;
+  content: "";
+  background: url("../img/bfqzt.svg");
+  background-size: cover;
+}
+.icon-pause:before{
+  display: inline-block;
+  width: $imgPlayWidth;
+  height:$imgPlayWidth;
+  content: "";
+  background: url("../img/bofangqi.svg");
+  background-size: cover;
+}
+.icon-play-mini:before {
+  display: inline-block;
+  width: $imgPlayWidth;
+  height:$imgPlayWidth;
+  content: "";
+  background: url("../img/bfqzt.svg");
+  background-size: cover;
+}
+.icon-pause-mini:before{
+  display: inline-block;
+  width: $imgPlayWidth;
+  height:$imgPlayWidth;
+  content: "";
+  background: url("../img/bofangqi.svg");
+  background-size: cover;
+}
+.icon-prev,.icon-next{
+  display: inline-block;
+  width: $imgPeyWidth;
+  height:$imgPeyWidth;
+}
+.icon-prev:before {
+  display: inline-block;
+  width: $imgPeyWidth;
+  height:$imgPeyWidth;
+  content: "";
+  background: url("../img/bofangqixia.svg");
+  background-size: cover;
+}
+.icon-next:before {
+  display: inline-block;
+  width: $imgPeyWidth;
+  height:$imgPeyWidth;
+  content: "";
+  background: url("../img/bfqx.svg");
+  background-size: cover;
+}
+.icon-favorite{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+}
+.icon-favorite:before{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+  content: "";
+  background: url("../img/shoucang.svg");
+  background-size: cover;
+}
+.icon-sequence,.icon-random,.icon-loop{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+}
+.icon-sequence:before {
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+  content: "";
+  background: url("../img/lbxh.svg");
+  background-size: cover;
+}
+.icon-random:before{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+  content: "";
+  background: url("../img/suijibf.svg");
+  background-size: cover;
+}
+.icon-loop:before{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+  content: "";
+  background: url("../img/dqxh.svg");
+  background-size: cover;
+}
+.icon-playlist{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+}
+.icon-playlist:before{
+  display: inline-block;
+  width: $scWidth;
+  height:$scWidth;
+  content: "";
+  background: url("../img/xuanji.svg");
+  background-size: cover;
+}
+

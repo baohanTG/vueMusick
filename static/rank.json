@@ -1,0 +1,325 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "topList": [
+      {
+        "id": 4,
+        "listenCount": 19600000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_203877579.jpg",
+        "songList": [
+          {
+            "singername": "MC天佑/毛不易",
+            "songname": "如果有一天我变得很有钱 (Live)"
+          },
+          {
+            "singername": "周深/郭沁",
+            "songname": "大鱼 (Live)"
+          },
+          {
+            "singername": "毛不易",
+            "songname": "深夜一⻆ (Live)"
+          }
+        ],
+        "topTitle": "广汽传祺·巅峰榜·流行指数",
+        "type": 0
+      },
+      {
+        "id": 26,
+        "listenCount": 19100000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_203785058.jpg",
+        "songList": [
+          {
+            "singername": "鹿晗",
+            "songname": "追梦赤子心"
+          },
+          {
+            "singername": "金志文",
+            "songname": "远走高飞 (独唱版)"
+          },
+          {
+            "singername": "校长",
+            "songname": "带你去旅行"
+          }
+        ],
+        "topTitle": "巅峰榜·热歌",
+        "type": 0
+      },
+      {
+        "id": 27,
+        "listenCount": 14878780,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_203810208.jpg",
+        "songList": [
+          {
+            "singername": "Alan Walker",
+            "songname": "The Spectre"
+          },
+          {
+            "singername": "光良",
+            "songname": "是不是还少了什么"
+          },
+          {
+            "singername": "Fonzie Ciaco/DJ Alf",
+            "songname": "Panama"
+          }
+        ],
+        "topTitle": "巅峰榜·新歌",
+        "type": 0
+      },
+      {
+        "id": 50,
+        "listenCount": 12348210,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_50_300_203650936.jpg",
+        "songList": [
+          {
+            "singername": "张震岳/MC HotDog/BooM黄旭/GAI",
+            "songname": "凡人歌 (Live)"
+          },
+          {
+            "singername": "GAI",
+            "songname": "苦行僧 (Live)"
+          },
+          {
+            "singername": "吴亦凡/红花会PG ONE",
+            "songname": "以父之名 (Live)"
+          }
+        ],
+        "topTitle": "巅峰榜·中国有嘻哈",
+        "type": 0
+      },
+      {
+        "id": 51,
+        "listenCount": 9900000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_51_300_203877579.jpg",
+        "songList": [
+          {
+            "singername": "MC天佑/毛不易",
+            "songname": "如果有一天我变得很有钱 (Live)"
+          },
+          {
+            "singername": "毛不易",
+            "songname": "消愁 (Live)"
+          },
+          {
+            "singername": "毛不易",
+            "songname": "深夜一⻆ (Live)"
+          }
+        ],
+        "topTitle": "巅峰榜·明日之子",
+        "type": 0
+      },
+      {
+        "id": 25,
+        "listenCount": 9900000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_25_300_203875787.jpg",
+        "songList": [
+          {
+            "singername": "周深/郭沁",
+            "songname": "大鱼 (Live)"
+          },
+          {
+            "singername": "梁博/希林娜依·高",
+            "songname": "男孩 (Live)"
+          },
+          {
+            "singername": "张碧晨/叶炫清",
+            "songname": "胡桃夹子 (Live)"
+          }
+        ],
+        "topTitle": "问问音箱·巅峰榜·中国新歌声",
+        "type": 0
+      },
+      {
+        "id": 28,
+        "listenCount": 13926880,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_203441351.jpg",
+        "songList": [
+          {
+            "singername": "赵方婧",
+            "songname": "尽头"
+          },
+          {
+            "singername": "莫关雨",
+            "songname": "最美情侣"
+          },
+          {
+            "singername": "薛明媛/朱贺",
+            "songname": "欧皇"
+          }
+        ],
+        "topTitle": "巅峰榜·网络歌曲",
+        "type": 0
+      },
+      {
+        "id": 5,
+        "listenCount": 9864180,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_203785058.jpg",
+        "songList": [
+          {
+            "singername": "鹿晗",
+            "songname": "追梦赤子心"
+          },
+          {
+            "singername": "庄心妍",
+            "songname": "再遇不到你这样的人"
+          },
+          {
+            "singername": "校长",
+            "songname": "带你去旅行"
+          }
+        ],
+        "topTitle": "巅峰榜·内地",
+        "type": 0
+      },
+      {
+        "id": 6,
+        "listenCount": 4211800,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_203785496.jpg",
+        "songList": [
+          {
+            "singername": "张信哲",
+            "songname": "见坏就收"
+          },
+          {
+            "singername": "岑宁儿",
+            "songname": "追光者"
+          },
+          {
+            "singername": "陈冠希",
+            "songname": "神"
+          }
+        ],
+        "topTitle": "巅峰榜·港台",
+        "type": 0
+      },
+      {
+        "id": 3,
+        "listenCount": 9200000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_203787489.jpg",
+        "songList": [
+          {
+            "singername": "ZAYN/Sia",
+            "songname": "Dusk Till Dawn"
+          },
+          {
+            "singername": "Kelly Clarkson",
+            "songname": "Move You"
+          },
+          {
+            "singername": "Sam Smith",
+            "songname": "Too Good At Goodbyes"
+          }
+        ],
+        "topTitle": "巅峰榜·欧美",
+        "type": 0
+      },
+      {
+        "id": 16,
+        "listenCount": 7099020,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_203798146.jpg",
+        "songList": [
+          {
+            "singername": "박재범 (朴宰范)/더블케이 (Double K)/Boi B (보이비)",
+            "songname": "REBORN"
+          },
+          {
+            "singername": "현아 (泫雅)",
+            "songname": "베베 (BABE)"
+          },
+          {
+            "singername": "소유 (昭宥)",
+            "songname": "제주도의 푸른 밤 (济州岛的蓝夜)"
+          }
+        ],
+        "topTitle": "巅峰榜·韩国",
+        "type": 0
+      },
+      {
+        "id": 17,
+        "listenCount": 1658310,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_203649913.jpg",
+        "songList": [
+          {
+            "singername": "初音ミク (初音未来)",
+            "songname": "神无月 (日文版)"
+          },
+          {
+            "singername": "中島美嘉 (なかしま みか)",
+            "songname": "电光石火之间"
+          },
+          {
+            "singername": "宇多田ヒカル (宇多田光)",
+            "songname": "Forevermore"
+          }
+        ],
+        "topTitle": "巅峰榜·日本",
+        "type": 0
+      },
+      {
+        "id": 201,
+        "listenCount": 346726,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+        "songList": [
+          {
+            "singername": "BTS",
+            "songname": "DNA"
+          },
+          {
+            "singername": "鹿晗",
+            "songname": "追梦赤子心 (《空天猎》电影片尾曲)"
+          },
+          {
+            "singername": "赵雷",
+            "songname": "成都"
+          }
+        ],
+        "topTitle": "巅峰榜·MV",
+        "type": 0
+      },
+      {
+        "id": 52,
+        "listenCount": 1302980,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_203600432.jpg",
+        "songList": [
+          {
+            "singername": "Terry Zhong/EnjiA",
+            "songname": "8PM"
+          },
+          {
+            "singername": "声音玩具",
+            "songname": "我有一个梦想"
+          },
+          {
+            "singername": "余佳运/Jony J",
+            "songname": "Almost Home"
+          }
+        ],
+        "topTitle": "巅峰榜·腾讯音乐人原创榜",
+        "type": 0
+      },
+      {
+        "id": 36,
+        "listenCount": 3439720,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_200732019.jpg",
+        "songList": [
+          {
+            "singername": "胡慧",
+            "songname": "分手快乐"
+          },
+          {
+            "singername": "郑阳亭",
+            "songname": "你那么爱他"
+          },
+          {
+            "singername": "胡赟兆",
+            "songname": "啷个哩个啷"
+          }
+        ],
+        "topTitle": "巅峰榜·K歌金曲",
+        "type": 0
+      }
+    ]
+  }
+}
